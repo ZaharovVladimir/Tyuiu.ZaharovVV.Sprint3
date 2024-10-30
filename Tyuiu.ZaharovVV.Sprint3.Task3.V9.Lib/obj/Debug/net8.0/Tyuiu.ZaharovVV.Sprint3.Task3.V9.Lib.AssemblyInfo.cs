@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c746d630a15730a44878be6dcedfac17b9ab6b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0a37b8b9d32d9eae622a520eba8d0aec854a508")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
