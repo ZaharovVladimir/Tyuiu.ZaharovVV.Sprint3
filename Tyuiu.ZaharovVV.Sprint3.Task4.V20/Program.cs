@@ -8,14 +8,14 @@ namespace Tyuiu.ZaharovVV.Sprint3.Task4.V20
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнил: Сафонов Р.В | АСОиУБ-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Захаров В. В. | ИСТНб-24-1";
             //Длина строки 75 символов
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема:  Использование операторов continue и break в циклах               *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #20                                                             *");
-            Console.WriteLine("* Выполнил: Сафонов Руслан Васильевич | АСОиУБ-24-1                       *");
+            Console.WriteLine("* Выполнил: Захаров Владимир Владимирович | ИСТНб-24-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* На отрезке, где x принимает значения от -5 до 5,                        *");

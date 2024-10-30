@@ -8,14 +8,14 @@ namespace Tyuiu.ZaharovVV.Sprint3.Task3.V9
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #2 | Выполнил: Медяничев Д.И. | АСОиУб-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Захаров В. В. | ИСТНб-24-1";
 
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла for                                                *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #16                                                             *");
-            Console.WriteLine("* Выполнил: Медяничев Денис Игоревич | АСОиУб-24-1                        *");
+            Console.WriteLine("* Выполнил: Захаров Владимир Владимирович | ИСТНб-24-1                    *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("Написать программу используя цикл for, которая вычисляет произведение     *");
