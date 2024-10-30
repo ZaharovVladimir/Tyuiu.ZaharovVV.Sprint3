@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C2655B6-48F9-4D06-8A05-E2C51C7ECA05}|Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task3.v9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C2655B6-48F9-4D06-8A05-E2C51C7ECA05}|Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task3.v9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{44795D36-1DC9-4447-8573-64E2A85E607A}|Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task4.v20.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44795D36-1DC9-4447-8573-64E2A85E607A}|Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task4.v20.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B8B2B34-E590-4818-BA31-83270657109F}|Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task3.v9.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B8B2B34-E590-4818-BA31-83270657109F}|Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task3.v9.test\\dataservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E0A0715D-7066-491D-9AAD-84E43E61B686}|Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task4.v20.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A0715D-7066-491D-9AAD-84E43E61B686}|Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task4.v20.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AE5A03C-8173-4E57-80C8-65CEB5BAEAF2}|Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task3.v9.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6AE5A03C-8173-4E57-80C8-65CEB5BAEAF2}|Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task3.v9.lib\\dataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{33BD0ED7-2F52-436E-A957-616DBC843FAB}|Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task4.v20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33BD0ED7-2F52-436E-A957-616DBC843FAB}|Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.csproj|solutionrelative:tyuiu.zaharovvv.sprint3.task4.v20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8457A241-195B-452F-9BE6-D81FF29F0BAB}|Tyuiu.ZaharovVV.Sprint3.Task0.V16\\Tyuiu.ZaharovVV.Sprint3.Task0.V16.csproj|c:\\users\\vladimir\\source\\repos\\tyuiu.zaharovvv.sprint3\\tyuiu.zaharovvv.sprint3.task0.v16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -43,51 +43,51 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\DataServiceTest.cs",
+              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\DataServiceTest.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\DataServiceTest.cs*",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task4.V20.Test\\DataServiceTest.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:04:24.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Program.cs",
+              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Program.cs",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task4.V20\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:04:21.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\DataService.cs",
+              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\DataService.cs",
+              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\DataService.cs",
+              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task4.V20.Lib\\DataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:04:20.14Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DataServiceTest.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\DataServiceTest.cs",
-              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\DataServiceTest.cs",
-              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\DataServiceTest.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task3.V9.Test\\DataServiceTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:58:35.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DataService.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\DataService.cs",
-              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\DataService.cs",
-              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\DataService.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task3.V9.Lib\\DataService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:58:29.432Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Program.cs",
-              "RelativeDocumentMoniker": "Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Program.cs",
-              "ToolTip": "C:\\Users\\Vladimir\\source\\repos\\Tyuiu.ZaharovVV.Sprint3\\Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Program.cs",
-              "RelativeToolTip": "Tyuiu.ZaharovVV.Sprint3.Task3.V9\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-30T01:58:33.401Z",
-              "EditorCaption": ""
             }
           ]
         }
